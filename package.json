@@ -1,9 +1,11 @@
 {
   "name": "grand-foodie-deni",
   "version": "1.0.0",
-  "description": "",
+  "description": "Независимый фуди: исследую, ем и оцениваю",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "bash scripts/build.sh"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/qertis/grand-foodie-deni.git"
