@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap);
 
 
 
@@ -8,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -40,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +546,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -746,7 +746,7 @@ section.lazy-placeholder:after {
 }
 .cid-s78PJicxYf {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s78PJicxYf .card-box {
@@ -788,7 +788,7 @@ section.lazy-placeholder:after {
   color: #073b4c;
 }
 .cid-s4pJ998aDj {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
@@ -993,6 +993,20 @@ section.lazy-placeholder:after {
     font-size: 20px !important;
   }
 }
+.cid-s796uCmAmf {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #833ab4;
+}
+.cid-s796uCmAmf .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-s796uCmAmf .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-s796uCmAmf H2 {
+  color: #ffdc80;
+}
 .cid-s4pHiYLnsH {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1080,4 +1094,5 @@ section.lazy-placeholder:after {
 }
 .cid-s4pHiYLnsH P {
   text-align: left;
+  color: #ffffff;
 }
