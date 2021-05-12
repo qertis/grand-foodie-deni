@@ -679,7 +679,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-swWkcQTMS3 {
-  background: linear-gradient(45deg, #ffdc80, #833ab4);
+  background-image: url("../../../assets/images/0.-.-.jpg");
 }
 .cid-swWkcQTMS3 .mbr-section-subtitle {
   font-style: italic;
@@ -687,6 +687,7 @@ section.lazy-placeholder:after {
 }
 .cid-swWkcQTMS3 .mbr-section-title {
   text-align: center;
+  color: #ffffff;
 }
 .cid-swWkcQTMS3 .mbr-text,
 .cid-swWkcQTMS3 .mbr-section-btn {
