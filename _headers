@@ -1,2 +1,2 @@
 /*
-  Feature-Policy: encrypted-media; *
+  Feature-Policy:  autoplay '*'; display-capture '*'; document-domain '*'; encrypted-media '*'; layout-animations '*'; payment '*'; sync-xhr '*'
