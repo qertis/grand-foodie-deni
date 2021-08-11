@@ -731,6 +731,40 @@ section.lazy-placeholder:after {
 .cid-swrb8doiwu hr {
   margin: 2rem 0;
 }
+.cid-sFLpZwdBHE {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sFLpZwdBHE .card-wrapper {
+  background-color: #ffdc80;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #ffdc80;
+  transition: all 0.3s;
+  padding: 2rem;
+  padding-top: 3rem;
+}
+.cid-sFLpZwdBHE .mbr-section-title,
+.cid-sFLpZwdBHE .mbr-section-subtitle {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sFLpZwdBHE .card-wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sFLpZwdBHE .card-wrapper {
+    padding: 1rem;
+    padding-top: 2rem;
+  }
+}
+.cid-sFLpZwdBHE .price {
+  text-align: center;
+  color: #232323;
+}
 .cid-sFGYzxRZQ4 {
   padding-top: 0px;
   padding-bottom: 0px;
